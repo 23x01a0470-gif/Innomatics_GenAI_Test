@@ -1,0 +1,78 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNrjzShjOosk+C3cLJFSAjB",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/23x01a0470-gif/Innomatics_GenAI_Test/blob/main/Innomatics_GenAI_Test%20.%20ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "id": "N70D38aByJ9R"
+      },
+      "outputs": [],
+      "source": [
+        "# Innomatics Advanced GenAI Internship – Entrance Test"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "\n",
+        "print(\"Innomatics GenAI Entrance Test Notebook\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "9Ae0xKjyydxA",
+        "outputId": "d5e5cdbd-159f-4595-f19d-97cbadeb0f99"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Innomatics GenAI Entrance Test Notebook\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Description\n"
+      ],
+      "metadata": {
+        "id": "WBK_L_p_zBuc"
+      },
+      "execution_count": 6,
+      "outputs": []
+    }
+  ]
+}
